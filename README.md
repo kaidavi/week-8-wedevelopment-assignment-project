@@ -10,12 +10,9 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: (Optional - if applicable in the future)
-- **Database**: (Optional - if applicable in the future)
-- **Hosting**: GitHub Pages
+- **Hosting**: Netlify
 
 ## Future Improvements
-- Implement a dynamic blog system.
 - Enhance the design with animations and interactive elements.
 - Add a contact form with backend support.
 
